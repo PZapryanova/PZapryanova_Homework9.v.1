@@ -1,0 +1,30 @@
+body {
+font-family: courier new;
+ }
+ h1 {
+  color: #B22222;
+    }
+.p1 {
+  color: #0000FF;
+  font-size: 25px;
+ }
+h2 {
+color: #FFA500;
+ }
+
+ul {
+  color: #008000;
+  font-size: 130%;	
+ }
+ .p4 {
+ color: #B22222;
+ font-size: 110%;
+ }
+
+.btn {
+color: #B22222;
+background-color: #FF8C00;
+position: absolute;
+left: 300px;
+right: 150px;
+}
